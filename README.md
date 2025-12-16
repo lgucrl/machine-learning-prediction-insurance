@@ -1,4 +1,4 @@
-# Machine Learning insurance cross-selling prediction
+# Machine Learning prediction of insurance cross-selling 
 
 This project builds a supervised **binary classification** model that helps an insurance company identify **cross-selling opportunities**: among existing customers, who is most likely to be interested in purchasing an additional **vehicle insurance** policy. The work follows an end-to-end Machine Learning pipeline (EDA, preprocessing, imbalance handling, model training, evaluation) and compares multiple algorithms and thresholds to balance decision strategies like identifying as many interested customers as possible (high recall) while controlling false positives (precision).
 
